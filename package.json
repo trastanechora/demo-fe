@@ -1,0 +1,17 @@
+{
+  "name": "demo-fe",
+  "version": "1.0.0",
+  "description": "cobda demo",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuetify": "^2.6.3"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
